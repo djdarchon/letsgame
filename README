@@ -1,5 +1,7 @@
 letsgame_macros.ahk created after a few hours of head banging frustration with MIDI byte ordering.
 
+at the time of writing, the ahk file -only- maps the pioneer S9 to a few common keys.
+
 Fantastic midi library for use with autohotkey (midi_in.dll, midi_in_lib.ahk -- the real heavy lifting) authored and provided by orbik at the AutoHotkey forums: https://autohotkey.com/board/topic/28056-midi-input-library/
 
 Please note that this is the 64 bit DLL (obtained here: https://github.com/micahstubbs/midi4ahk/blob/master/dll_source/x64/Release64/midi_in.dll)
