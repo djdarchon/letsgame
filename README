@@ -1,0 +1,10 @@
+letsgame_macros.ahk created after a few hours of head banging frustration with MIDI byte ordering.
+
+Fantastic midi library for use with autohotkey (midi_in.dll, midi_in_lib.ahk -- the real heavy lifting) authored and provided by orbik at the AutoHotkey forums: https://autohotkey.com/board/topic/28056-midi-input-library/
+
+Please note that this is the 64 bit DLL (obtained here: https://github.com/micahstubbs/midi4ahk/blob/master/dll_source/x64/Release64/midi_in.dll)
+
+If you are running a 32 bit system, you will need to get the 32 bit version of this DLL (first page of the aforementioned forum thread)
+
+Happy hacking!
+-JD
